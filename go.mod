@@ -1,4 +1,4 @@
-module kontera-technologies/zap-net-sink
+module github.com/kontera-technologies/zap-net-sink
 
 go 1.14
 
